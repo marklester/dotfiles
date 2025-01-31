@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s my-settings.sh /etc/profile.d/my-setting.sh
+echo "export GIT_EDITOR=vim" >> ~/.bashrc
