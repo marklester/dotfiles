@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "export GIT_EDITOR=vim" >> ~/.bashrc
+git config --global core.editor "vim"
